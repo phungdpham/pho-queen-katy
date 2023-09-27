@@ -54,7 +54,7 @@ function Services() {
         </div>
         <div className="mt-12 text-center">
           <a
-            href="/services"
+            href="/menu"
           >
             <button className="bg-transparent border-2 border-solid border-white p-3 text-white rounded-lg lg:py-2.5 px-4 lg:px-6 bg-hover ">
               View Menu

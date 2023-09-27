@@ -8,7 +8,7 @@ export default [
   {
     page: "Services",
     label: "Menu",
-    url: `/services`,
+    url: `/menu`,
   },
   
   // {
