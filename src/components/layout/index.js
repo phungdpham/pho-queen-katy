@@ -22,7 +22,7 @@ function Layout({ children, homePage }) {
         <div className="min-h-screen  bg-gradient-to-r from-zinc-900 to-zinc-800">{children}</div>
       </motion.div>
       {/* <AppointmentBtn /> */}
-      <MobileButton />
+      {/* <MobileButton /> */}
       <Footer />
     </>
   );
