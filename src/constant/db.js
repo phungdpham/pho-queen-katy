@@ -4,7 +4,7 @@ import Instagram from '../images/icon/ig.png';
 
 export default {
   salonName: 'Pho Queen',
-  phone: '(345) 457-7057',
+  phone: '(346) 457-7057',
   address: {
     street: '9555 Spring Green Blvd, Suite E,',
     city: 'Katy',
